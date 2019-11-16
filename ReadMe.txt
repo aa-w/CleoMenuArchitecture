@@ -1,0 +1,1 @@
+This is a basic Menu Architecture for CleO programs based on my CleOCom project. The program is split into two loops, UI, Backend.
